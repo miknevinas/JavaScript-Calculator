@@ -28,6 +28,8 @@ window.onload = function() {
                 return parseInt(num, 10);
             });
             result.innerHTML = eval(baseTen);
+            console.log(result.innerHTML);
+            
         };
     }
     
