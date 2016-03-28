@@ -33,7 +33,7 @@ window.onload = function() {
         };
     }
     
-    //clear function
+    //Clear function
     clear.onclick = function() {
         result.innerHTML = '';
     }
